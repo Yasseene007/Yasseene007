@@ -7,7 +7,7 @@ I'm RAHAL Muhammed Yasseene, a passionate **Mechanical Engineering Student** �
 ## 🌟 About Me
 - 🎓 **Mechanical Engineering Student** with a focus on combining **machine learning** with engineering.
 - 🤝 Active memner at **ENIT Junior Entreprise** .
-- 🛠️ **Beginner CAD user** with hands-on experience in design tools.
+- 🛠️ **Beginner CAD user**.
 - 💪 Beginner at the gym, aiming to build muscl and improve flexibility.
 - 🌱 Always curious about technology, self-growth, and learning new skills.
 
